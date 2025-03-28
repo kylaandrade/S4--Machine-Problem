@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/kylaandrade/">
-    <img src="./assets/img/logo.png" alt="Restaurant Logo" width="130" height="100">
+    <img src="./assets/img/logo.png" alt="Resto Logo" width="130" height="100">
   </a>
   <h3 align="center">S4-MACHINE PROBLEM</h3>
 </div>
